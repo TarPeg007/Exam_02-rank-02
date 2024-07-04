@@ -1,0 +1,23 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ft_strspn.txt                                      :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: sfellahi <sfellahi@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/06/23 14:34:07 by sfellahi          #+#    #+#              #
+#    Updated: 2024/06/23 14:34:09 by sfellahi         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Assignment name	: ft_strspn
+Expected files	: ft_strspn.c
+Allowed functions: None
+---------------------------------------------------------------
+
+Reproduce exactly the behavior of the strspn function 
+(man strspn).
+
+The function should be prototyped as follows:
+
+size_t	ft_strspn(const char *s, const char *accept);
